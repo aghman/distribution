@@ -1,4 +1,4 @@
-module github.com/distribution/distribution/v3
+module github.com/aghman/distribution/v3
 
 go 1.15
 
